@@ -8,7 +8,7 @@ Presentation component are also frequently called "simple" components. Why? Beca
 
 In this lab, we'll illustrate this principle by building two components: a `SimpleComponent` and a `SimplerComponent`. Our `SimpleComponent` will be presentational, but it will have a tiny bit of state and therefore be less stable than our `SimplerComponent`. Specifically, our `SimpleComponent` will experience wild mood fluctuations. Our `SimplerComponent`, meanwhile, will be written as a "stateless functional" component and therefore be steadfastly happy.
 
-## SimpleComponent
+## SimpleComponfent
 The specs for our `SimpleComponent` are as follows:
 1. In the `components/SimpleComponent.js` file, create a `SimpleComponent` component.
 2. The component should be declared as a class (instance of `Component`) so that it can carry state.
