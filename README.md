@@ -12,7 +12,7 @@ In this lab, you'll write two components:
 A truth in programming is this: managing state is **hard**. We humans know
 this: imagine taking lunch orders for a small group of colleagues or friends.
 Say everyone orders a sandwich. If you poll your friends you're going to
-rapidly exceed the human brain's memory capacity:
+rapidly exceed the human brain's memory capacity: h
 
 * "If they have capicola, I want that, but if they don't have it, I want ham
   with mustard, but only if that mustard is spicy."
